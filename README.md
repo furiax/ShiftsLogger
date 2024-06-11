@@ -8,8 +8,8 @@ This app is a shift logger app, it logs the start and endtime of an employee's s
 The user can view, add, edit and delete shifts.
 <br>
 <h2>Requirements:</h2>
-* create two applications, a Web API and a console UI. <br>
-* validation and user input should happen in the UI.<br>
+* Create two applications, a Web API and a console UI. <br>
+* Validation and user input should happen in the UI.<br>
 * Your API's controller should be lean. Any logic should be handled in a separate "service".<br>
 * Use SQLServer and Entity Framework.<br>
 
